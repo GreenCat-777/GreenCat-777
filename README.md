@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy Guys I'm a random guy who's into random things (specifically jailbreaking).
+If you need anything dm me on discord url is on my account. I'm not much of a coder but I do some light stuff
+Recently I got into kindles so I have made a few projects around that.
 
 <!--
 **GreenCat-777/GreenCat-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
