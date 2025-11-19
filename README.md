@@ -2,6 +2,14 @@
 If you need anything dm me on discord url is on my account. I'm not much of a coder but I do some light stuff
 Recently I got into kindles so I have made a few projects around that.
 
+## Discord stuff
+
+<a href="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg](https://discord-cards.onrender.com/api/card/902006605791494255?about=Jailbreak%20thy%20kindle.&banner=https://i.pinimg.com/736x/b4/07/7f/b4077f349607c394c10e407cd75ad1e7.jpg">
+  <img src="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg](https://discord-cards.onrender.com/api/card/902006605791494255?about=Jailbreak%20thy%20kindle.&banner=https://i.pinimg.com/736x/b4/07/7f/b4077f349607c394c10e407cd75ad1e7.jpg" alt=":D" align="right" style="margin-right: 40px;" />
+</a>
+
+If you want help with something you think I might know or support for my projects you can dm link on sidebar.
+
 <!--
 **GreenCat-777/GreenCat-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
