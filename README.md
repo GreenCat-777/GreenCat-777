@@ -5,7 +5,7 @@ Recently I got into kindles so I have made a few projects around that.
 ## Discord stuff
 
 <a href="https://discord-cards.onrender.com/api/card/902006605791494255?about=Jailbreak%20thy%20kindle.&banner=https://i.pinimg.com/736x/b4/07/7f/b4077f349607c394c10e407cd75ad1e7.jpg">
-  <img src="https://discord-cards.onrender.com/api/card/902006605791494255?about=Jailbreak%20thy%20kindle.&banner=https://i.pinimg.com/736x/b4/07/7f/b4077f349607c394c10e407cd75ad1e7.jpg" alt=":D" align="right" style="margin-right: 40px;" />
+  <img src="https://discord-cards.onrender.com/api/card/902006605791494255?about=Jailbreak%20thy%20kindle.&banner=https://i.pinimg.com/736x/b4/07/7f/b4077f349607c394c10e407cd75ad1e7.jpg" alt="The img is down" align="right" style="margin-right: 40px;" />
 </a>
 
 If you want help with something you think I might know or support for my projects you can dm link on sidebar.
