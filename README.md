@@ -1,7 +1,4 @@
-## About Me
-Hi People,
-I enjoy jailbreaking devices and doing unintended things, I've made a plethora of Scriptlets for the kindle along with other packages and ports of linux distros. Please understand I cannot code, but I can make SH scripts, (lol) but I can help you with any kindle related questions. You can reach out to me [on discord](https://discord.com/users/902006605791494255), or email me at greencat777456@gmail.com
-
+## [BIO](https://greencatbio.vercel.app/)
 All my projects are free and open source listed under The Unlicense, if anyone has charged you for them you have been legally scammed.
 
 
