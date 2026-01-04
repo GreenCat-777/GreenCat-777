@@ -5,4 +5,3 @@
   <img src="https://discord-cards.onrender.com/api/card/902006605791494255?about=Jailbreak%20thy%20kindle.&banner=https://i.pinimg.com/736x/b4/07/7f/b4077f349607c394c10e407cd75ad1e7.jpg" alt="The img is down" align="right" style="margin-right: 40px;" />
 </a>
 ## Other Stats
-[![GreenCat777's GitHub stats](https://github-readme-stats.vercel.app/api?username=greencat-777)](https://github.com/anuraghazra/github-readme-stats)
