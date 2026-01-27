@@ -11,5 +11,5 @@
   <img height=200 align="center" src="https://github-readme-stats-gamma-three-66.vercel.app/api?username=GreenCat-777&theme=shadow_green" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-gamma-three-66.vercel.app/api/top-langs?username=GreenCat-777&layout=compact&langs_count=8&card_width=320&theme=lime" />
+  <img height=200 align="center" src="https://github-readme-stats-gamma-three-66.vercel.app/api/top-langs?username=GreenCat-777&layout=compact&langs_count=8&card_width=320&theme=shadow_light_green" />
 </a>
